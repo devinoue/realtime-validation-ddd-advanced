@@ -1,7 +1,3 @@
 # realtime-validation-ddd
-
-ドメイン駆動設計によるNuxt/Vueアプリケーションにおいて、しばしば「利口なUI」と呼ばれるアンチパターンに遭遇する。  
-本来ならドメインに封じておくドメイン知識がUI層に流出してしまい、エンジニアはドメイン知識を修正する二度手間に煩わされることになっていた。  
-昨今のUX的観点からのインラインによるリアルタイムバリデーションを考慮した解決法を提示したい。  
-  
-[ドメイン駆動設計 with Vue/Nuxt(Composition API)でリアルタイム・バリデーション](https://qiita.com/JDM/items/0cefc43b6ae31f6db87b)
+解説はこちら  
+[ドメイン駆動設計+Nuxt/Vueでリアルタイムバリデーション[発展編]](https://qiita.com/JDM/items/4b7cf703ceae36d4c445)
